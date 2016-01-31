@@ -1,0 +1,28 @@
+name: Cinnamon Blogger
+favicon: null
+layout_spectrum: 0.7964954988565296
+typography_spectrum: 0.5939469686709344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1617255301680416
+  lightness: 0.14079446764662862
+  saturation: 0.7527886296156794
+  rhythmicContrast: 0.535201471298933
+purpose: []
